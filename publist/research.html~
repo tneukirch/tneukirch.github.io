@@ -1,0 +1,95 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <title>Thomas Neukirch: Research Interests</title>
+</head>
+<body style="background-color: rgb(255, 223, 174);">
+<h1>Thomas Neukirch: Research Interests </h1>
+<img src="a_sonn02.gif" width="100"> Solar physics is cool !
+<hr>
+<h2>Research Topics (numbers refer to publication list)</h2>
+<ul>
+  <li>Solar Magnetic Fields [<a href="publist.html#10">10</a>, <a
+ href="publist.html#11">11</a>, <a href="publist.html#17">17</a>, <a
+ href="publist.html#18">18</a>, <a href="publist.html#20">20-22</a>, <a
+ href="publist.html#25">25</a>, <a href="publist.html#30">30</a>, <a
+ href="publist.html#31">31</a>, <a href="publist.html#33">33</a>-<a
+ href="publist.html#41">41</a>, <a href="publist.html#47">47</a>, <a
+ href="publist.html#49">49</a>-<a href="publist.html#51">51</a>, <a
+ href="publist.html#55">55</a>, <a href="publist.html#57">57</a>, <a
+ href="publist.html#58">58</a>
+] </li>
+  <li>Magnetic Reconnection [<a href="%20publist.html#14">14</a>, <a
+ href="publist.html#16">16</a>, <a href="publist.html#23">23</a>, <a
+ href="publist.html#26">26</a>, <a href="publist.html#46">46</a>, <a
+ href="publist.html#52">52</a>, <a href="publist.html#54">54</a>, <a
+ href="publist.html#61">61</a> ] </li>
+  <li>Basic MHD aspects [ <a href="publist.html#12">12</a>, <a
+ href="publist.html#42">42</a>, <a href="publist.html#45">45</a>
+] </li>
+  <li>Particle Acceleration [<a href="publist.html#19">19</a>, <a
+ href="publist.html#60">60</a>] </li>
+  <li>Stability of Current Carrying Plasmas [<a href="publist.html#9">9</a>,
+    <a href="publist.html#53">53</a>] </li>
+  <li>Earth's Magnetosphere and Ionosphere
+[ <a href="publist.html#13">13</a>, <a href="publist.html#15">15</a>,
+    <a href="publist.html#27">27</a>, <a href="publist.html#32">32</a>,
+    <a href="publist.html#43">43</a>
+] </li>
+  <li>Rotating Magnetospheres (Planets, Stars, Compact Objects) and
+Accretion Disks [ <a href="publist.html#3">3</a>, <a
+ href="publist.html#4">4</a>, <a href="publist.html#5">5</a>, <a
+ href="publist.html#8">8</a>, <a href="publist.html#24">24</a>, <a
+ href="publist.html#44">44</a>, <a href="publist.html#48">48</a>, <a
+ href="publist.html#59">59</a>
+] </li>
+  <li>Structure formation in Galaxies and the Interstellar Medium [ <a
+ href="publist.html#1">1</a>, <a href="publist.html#2">2</a>, <a
+ href="publist.html#6">6</a>, <a href="publist.html#7">7</a>, <a
+ href="publist.html#28">28</a>, <a href="publist.html#29">29</a>, <a
+ href="publist.html#56">56</a>
+] </li>
+</ul>
+<hr>
+<p>My main research interest is the application of theoretical plasma
+physics methods to space and astrophysical plasma systems. This
+includes planetary magnetospheres, the solar atmosphere, magnetospheres
+of stars and compact objects etc. I have also done work on structure
+formation in galaxies and the interstellar medium.
+</p>
+<p>A large part of my work focuses on plasma equilibria and their
+stability. I am especially interested in equilibrium sequences
+depending on external control parameters, bifurcation properties of
+plasma systems and other nonlinear aspects of equilibrium theory. This
+is important because
+</p>
+<ul>
+  <li>The stationary states indicate the possible <i>ground states</i>
+of a system. </li>
+  <li>Often space and astrophysical plasma systems exhibit periods of
+slow quasi-static evolution (energy accumulation) ending in a violent
+eruptive process (energy release); equilibrium sequences are very
+helpful to model this type of behavior. </li>
+  <li>In general, equilibrium diagrams together with suitable criteria
+for stability can indicate when and how a plasma equilibrium looses its
+stability and time-dependent behavior is to be expected </li>
+</ul>
+<p>
+Both analytical and numerical methods are used to solve the plasma
+equilibrium equations. This concept has been applied to systems like
+current sheets,
+rotating magnetospheres, solar magnetic arcades and galactic disks.
+</p>
+<p>As said above equilibrium theory represents a first step towards the
+understanding
+of activity processes. The activity itself has to be modelled
+time-dependently. Usually this can only by done by the means of plasma
+simulations. Sometimes, however, even in that case analytical methods
+can be used. So far work has been done on interacting flux systems in
+the solar
+corona, the development of resistive instabilities in the ionosphere
+and
+on finding exact time-dependent solutions of the MHD equations.
+</p>
+</body>
+</html>
